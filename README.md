@@ -25,4 +25,6 @@
  
 </div>
 
+
+![Snake animation](https://github.com/marceloprimi/marceloprimi/blob/output/github-contribution-grid-snake.svg)
   
