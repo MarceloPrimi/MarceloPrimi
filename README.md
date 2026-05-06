@@ -1,7 +1,9 @@
  ##  Oi, eu sou o MarceloPrimi
   
-- 👀 Tenho interesse em crescer na area e me desbravar mundão a fora
-- 🌱 Atualmente estou estudando HTML CSS e JAVASCRIP
+- Sempre me aprimorando na àrea da automação python/botcity
+- Focado a me tornar um FullStack Java/SpringBot e VueJs
+- Estudando configurações e sustentação de servidores
+- Sempre ativo nas novidades do nicho da técnologia
 
 <div align="center">
   <a href="https://github.com/MarceloPrimi">
